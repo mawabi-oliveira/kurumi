@@ -1,0 +1,12 @@
+node_modules
+dist/
+.vscode
+.DS_Store
+
+# Variáveis de ambiente (segredos). Só o .env.example vai para o GitHub.
+.env
+.env.*
+!.env.example
+
+# Banco de dados local
+*.sqlite

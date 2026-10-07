@@ -1,0 +1,7 @@
+export const TUPI_WORDS = [
+  'TABUA', 'ITATA', 'ABARA', 'PARAN', 'TUPIN',
+  'ARARA', 'CARAI', 'IPEPU', 'MIRIM', 'PIRAI',
+  'PURUS', 'APARA', 'TACAI', 'ITARA', 'CURUA',
+  'TUPIM', 'KURUM', 'YRAMA', 'PYRAN', 'MACUR',
+  'YBYTY', 'TAPIR', 'CIPUR', 'ABATU', 'PACUR',
+];
